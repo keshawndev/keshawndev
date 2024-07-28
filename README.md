@@ -1,6 +1,8 @@
-## Hi there 👋
+Hi! My name is Ke'shawn Barbary 😄
+🌍  I am a Front-End Developer based in Austin Texas.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,js)](https://skillicons.dev)
 
 <!--
 **keshawndev/keshawndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
