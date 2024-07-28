@@ -1,7 +1,8 @@
-Hi! My name is Ke'shawn Barbary 😄
-🌍  I am a Front-End Developer based in Austin Texas.
+**Hi! My name is Ke'shawn Barbary 😄
+🌍  I am a Front-End Developer based in Austin Texas.**
 
-Skills
+**Skills**
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss)](https://skillicons.dev)
 
 <!--
