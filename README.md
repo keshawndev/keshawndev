@@ -1,5 +1,5 @@
 **Hi! My name is Ke'shawn Barbary 😄
-🌍  I am a Front-End Developer based in Austin Texas.**
+🌍 
 
 **Skills**
 
