@@ -3,8 +3,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=keshawndev&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark_github" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=keshawndev&layout=compact&langs_count=4&theme=dark_github" height="150" alt="languages graph"  />
+  <img src="./profile/stats.svg" height="150" alt="stats graph"  />
+  <img src="./profile/top-langs.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
