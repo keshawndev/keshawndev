@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Keshawndev/Keshawndev/snake-output/snake.svg" alt="Snake animation" />
+<img  align="center" data-importer="snake" src="https://raw.githubusercontent.com/Keshawndev/Keshawndev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
