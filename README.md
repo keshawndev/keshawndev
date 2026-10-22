@@ -1,4 +1,4 @@
-<h2 align="center">Hi! 👋 I'm Ke'shawn — I'm a cloud engineer based in Georgia transitioning out of performance marketing</h2>
+<h2 align="center">Hi! 👋 I'm Ke'shawn — I'm a cloud engineer based in Georgia transitioning out of a successfull performance marketing career</h2>
 
 ###
 
