@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi!👋 Im Ke'shawn - a Cloud engineer based in Georgia</h2>
+<h2 align="center">Hi! 👋 I'm Ke'shawn — a Cloud Engineer based in Georgia</h2>
 
 ###
 
