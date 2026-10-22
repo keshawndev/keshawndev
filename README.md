@@ -1,8 +1,8 @@
-<h2 align="center">Hi! 👋 I'm Ke'shawn — a Cloud Engineer based in Georgia</h2>
+<h2>Hi! 👋 I'm Ke'shawn — a Cloud Engineer based in Georgia</h2>
 
 ###
 
-<div data-importer="stats" align="center">
+<div data-importer="stats">
   <img src="https://github-stats-extended.vercel.app/api?username=keshawndev&hide_rank=true&show_icons=true&include_all_commits=true&hide=issues&theme=dark_github" height="165" alt="stats graph"  />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=keshawndev&layout=compact&langs_count=6&theme=dark_github" height="165" alt="languages graph"  />
 </div>
@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-<img  align="center" data-importer="snake" src="https://raw.githubusercontent.com/Keshawndev/Keshawndev/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Keshawndev/Keshawndev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
